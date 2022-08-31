@@ -1,0 +1,13 @@
+Sangam:
+  name   : "Sangam Swadi K"
+  avatar : "/assets/images/profile_pic.png"
+  bio    : "Welcome to my blog"
+  github: "SangamSwadiK"
+  # linkedin: "linkedin"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://SangamSwadiK.github.io/about"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sangam118@gmail.com"
