@@ -29,9 +29,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Camelia Mendes
-  hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
-  hero__image: '/images/01.jpg'
+  hero__title: Hey, I’m Sangam!
+  hero__description: A machine learning engineer with a passion for product building and a track record of delivering business ROI through skill expansion.
+  hero__image: '/images/sangam_profile_pic_2022.jpg'
 
 
 #-------------------------------
@@ -71,7 +71,7 @@ gallery:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
+  email: sangam@gmail.com # Add your email for contant form
   description: Menca comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
